@@ -1,4 +1,4 @@
-# profile-app
+# Profile-app
 Profile app using flutter
 
 # Screenshot
